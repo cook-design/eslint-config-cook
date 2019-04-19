@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-cook",
+  "version": "1.0.0",
+  "description": "cook eslint config",
+  "keywords": [
+    "eslint config",
+    "cook"
+  ],
+  "license": "MIT",
+  "author": "yongbao.fyb",
+  "main": "index.js",
+  "dependencies": {
+    "babel-eslint": "7",
+    "eslint-config-airbnb": "~15.1.0",
+    "eslint-plugin-babel": "~4.1.1",
+    "eslint-plugin-import": "~2.7.0",
+    "eslint-plugin-jsx-a11y": "~5.1.1",
+    "eslint-plugin-markdown": "~1.0.0-beta.6",
+    "eslint-plugin-react": "~7.2.0",
+    "eslint-tinker": "~0.4.1"
+  }
+}
